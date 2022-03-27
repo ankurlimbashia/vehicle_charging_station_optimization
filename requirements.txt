@@ -1,0 +1,11 @@
+pandas>=1.1.5
+streamlit>=1.6.0
+folium>=0.12.1
+streamlit_folium>=0.6.4
+osmnx>=1.1.2
+networkx>=2.6.3
+geopy>=2.2.0
+requires.io>=0.2.6
+Rtree>=0.9.7
+scikit-learn>=1.0.0
+xlsxwriter>=3.0.0
